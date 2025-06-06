@@ -1,0 +1,4 @@
+/index.sh   200  User-Agent=curl*
+/index.sh   200  User-Agent=*curl*
+/index.sh   200  User-Agent=wget*
+/index.html 200
