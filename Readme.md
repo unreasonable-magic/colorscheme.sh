@@ -1,0 +1,3 @@
+```
+curl colorscheme.sh | bash
+```
